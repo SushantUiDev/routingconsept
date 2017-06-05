@@ -1,6 +1,6 @@
 (function(){
 	//create module
-	angular.module("goodService",["header"]);
+	angular.module("goodService",["header","login","register"]);
 	
 	//consume module
 	angular.module("goodService")
